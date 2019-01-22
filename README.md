@@ -1,2 +1,2 @@
 # DWH
-small show of work
+I feel the need to clarify my technical level in PLSQL in short examples of my work. In addition to common script editing, I used to create new packages (insert, update, merge), part of my work was to write datafixes (often using parallels), from the commonly used tools I usually use test window, sql window at PLSQL. At HomeCredit we fix errors at daily load. And keep at least one of us point of contact 24/7, we were worked at different countries with different timezones. All changes at code we saved into SVN or GIT. We always report SLA’s and work was most of the time define by agile approach reported into JIRA. 
